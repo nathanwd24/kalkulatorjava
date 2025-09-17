@@ -1,10 +1,10 @@
 public class Angka {
-    int a;
-    int b;
-    int tambah;
-    int kali;
-    int kurang;
-    int bagi;
+    double a;
+    double b;
+    double tambah;
+    double kali;
+    double kurang;
+    double bagi;
 
     int pilihan;
 }

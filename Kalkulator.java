@@ -7,11 +7,11 @@ class Kalkulator {
         System.out.println("============ KALKULATOR ============");
 
         System.out.print("Masukkan angka pertama : ");
-        angka.a = input.nextInt();
+        angka.a = input.nextDouble();
         System.out.println("Angka pertama : " + angka.a);
 
         System.out.print("Masukkan angka kedua : ");
-        angka.b = input.nextInt();
+        angka.b = input.nextDouble();
         System.out.println("Angka kedua : " + angka.b);
         
         angka.tambah = angka.a+angka.b;
